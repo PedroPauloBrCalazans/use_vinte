@@ -1,0 +1,30 @@
+D:\AspNetCore-WebAPI-EP\ApiCompleta\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Data.deps.json
+D:\AspNetCore-WebAPI-EP\ApiCompleta\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Data.dll
+D:\AspNetCore-WebAPI-EP\ApiCompleta\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Data.pdb
+D:\AspNetCore-WebAPI-EP\ApiCompleta\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Business.dll
+D:\AspNetCore-WebAPI-EP\ApiCompleta\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Business.pdb
+D:\AspNetCore-WebAPI-EP\ApiCompleta\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.csprojAssemblyReference.cache
+D:\AspNetCore-WebAPI-EP\ApiCompleta\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.AssemblyInfoInputs.cache
+D:\AspNetCore-WebAPI-EP\ApiCompleta\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.AssemblyInfo.cs
+D:\AspNetCore-WebAPI-EP\ApiCompleta\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.csproj.CopyComplete
+D:\AspNetCore-WebAPI-EP\ApiCompleta\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.dll
+D:\AspNetCore-WebAPI-EP\ApiCompleta\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.pdb
+D:\AspNetCore-WebAPI-EP\ApiCompleta\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Data.runtimeconfig.json
+D:\AspNetCore-WebAPI-EP\ApiCompleta\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Data.runtimeconfig.dev.json
+D:\AspNetCore-WebAPI-EP\ApiCompleta\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.csproj.CoreCompileInputs.cache
+D:\AspNetCore-WebAPI-EP\ApiCompleta\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.genruntimeconfig.cache
+D:\ProjetosAngular\UseVint3\ UseVinteBack-End\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Data.deps.json
+D:\ProjetosAngular\UseVint3\ UseVinteBack-End\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Data.runtimeconfig.json
+D:\ProjetosAngular\UseVint3\ UseVinteBack-End\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Data.runtimeconfig.dev.json
+D:\ProjetosAngular\UseVint3\ UseVinteBack-End\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Data.dll
+D:\ProjetosAngular\UseVint3\ UseVinteBack-End\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Data.pdb
+D:\ProjetosAngular\UseVint3\ UseVinteBack-End\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Business.dll
+D:\ProjetosAngular\UseVint3\ UseVinteBack-End\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Business.pdb
+D:\ProjetosAngular\UseVint3\ UseVinteBack-End\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.csprojAssemblyReference.cache
+D:\ProjetosAngular\UseVint3\ UseVinteBack-End\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.AssemblyInfoInputs.cache
+D:\ProjetosAngular\UseVint3\ UseVinteBack-End\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.AssemblyInfo.cs
+D:\ProjetosAngular\UseVint3\ UseVinteBack-End\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.csproj.CoreCompileInputs.cache
+D:\ProjetosAngular\UseVint3\ UseVinteBack-End\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.csproj.CopyComplete
+D:\ProjetosAngular\UseVint3\ UseVinteBack-End\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.dll
+D:\ProjetosAngular\UseVint3\ UseVinteBack-End\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.pdb
+D:\ProjetosAngular\UseVint3\ UseVinteBack-End\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.genruntimeconfig.cache

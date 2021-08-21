@@ -1,0 +1,18 @@
+D:\AspNetCore-WebAPI-EP\ApiCompleta\src\DevIO.Business\bin\Debug\netcoreapp2.2\DevIO.Business.deps.json
+D:\AspNetCore-WebAPI-EP\ApiCompleta\src\DevIO.Business\bin\Debug\netcoreapp2.2\DevIO.Business.dll
+D:\AspNetCore-WebAPI-EP\ApiCompleta\src\DevIO.Business\bin\Debug\netcoreapp2.2\DevIO.Business.pdb
+D:\AspNetCore-WebAPI-EP\ApiCompleta\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.csprojAssemblyReference.cache
+D:\AspNetCore-WebAPI-EP\ApiCompleta\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.AssemblyInfoInputs.cache
+D:\AspNetCore-WebAPI-EP\ApiCompleta\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.AssemblyInfo.cs
+D:\AspNetCore-WebAPI-EP\ApiCompleta\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.csproj.CoreCompileInputs.cache
+D:\AspNetCore-WebAPI-EP\ApiCompleta\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.dll
+D:\AspNetCore-WebAPI-EP\ApiCompleta\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.pdb
+D:\ProjetosAngular\UseVint3\ UseVinteBack-End\src\DevIO.Business\bin\Debug\netcoreapp2.2\DevIO.Business.deps.json
+D:\ProjetosAngular\UseVint3\ UseVinteBack-End\src\DevIO.Business\bin\Debug\netcoreapp2.2\DevIO.Business.dll
+D:\ProjetosAngular\UseVint3\ UseVinteBack-End\src\DevIO.Business\bin\Debug\netcoreapp2.2\DevIO.Business.pdb
+D:\ProjetosAngular\UseVint3\ UseVinteBack-End\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.csprojAssemblyReference.cache
+D:\ProjetosAngular\UseVint3\ UseVinteBack-End\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.AssemblyInfoInputs.cache
+D:\ProjetosAngular\UseVint3\ UseVinteBack-End\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.AssemblyInfo.cs
+D:\ProjetosAngular\UseVint3\ UseVinteBack-End\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.csproj.CoreCompileInputs.cache
+D:\ProjetosAngular\UseVint3\ UseVinteBack-End\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.dll
+D:\ProjetosAngular\UseVint3\ UseVinteBack-End\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.pdb
